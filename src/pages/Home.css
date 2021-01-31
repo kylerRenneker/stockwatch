@@ -1,0 +1,17 @@
+.home-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.primary-icon-color {
+  color: #ffffff;
+}
+
+/* ion-icon {
+  font-size: 64px;
+} */
+
+/* .testicon {
+  font-size: 40px;
+} */
