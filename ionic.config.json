@@ -1,0 +1,8 @@
+{
+  "name": "stockwatch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "246634e1"
+}
